@@ -2,7 +2,7 @@
 
 Generate captions for an image using PyTorch
 
-![img](./img.jpg)
+![img](./img.png)
 
 ## Setup
 - Download the dataset
